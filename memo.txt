@@ -21,3 +21,13 @@ new Random().Next(min, max)
 ToLower() позволяет учитывать разные буквы по велечине в слове
 string string.ToLower() (+ 1 перегрузка) 
 
+Шаблон цикла
+
+while( УСЛОВИЕ ПРОДОЛЖЕНИЯ) {
+Набор действий
+}
+Int count = 0;
+while( count < 100) {
+Набор действий count = count + 1
+}
+
