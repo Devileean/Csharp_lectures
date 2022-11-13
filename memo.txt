@@ -17,3 +17,7 @@ new Random().Next(min, max)
 [min, max-1] или [min, max]
 
 % - деление с остатком
+
+ToLower() позволяет учитывать разные буквы по велечине в слове
+string string.ToLower() (+ 1 перегрузка) 
+
